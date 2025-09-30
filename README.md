@@ -7,7 +7,7 @@ Projeto de análise de churn realizado no Google Sheets, explorando hipóteses e
 
 ### 🟢 Hipótese 1: O primeiro mês é o mais crítico para o cliente entrar em churn?
 
-![Gráfico de Barras - Churn por Mês](grafico_barras.jpg)
+![Gráfico de Barras - Churn por Mês](Grafico de barras.jpg)
 
 ✅ **Verdadeiro**  
 A análise mostrou que os três primeiros meses após a compra concentram as maiores taxas de churn:

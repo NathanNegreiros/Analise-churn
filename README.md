@@ -7,7 +7,7 @@ Projeto de análise de churn realizado no Google Sheets, explorando hipóteses e
 
 ### 🟢 Hipótese 1: O primeiro mês é o mais crítico para o cliente entrar em churn?
 
-![Gráfico de Barras - Churn por Mês](Grafico de barras.jpg)
+![Gráfico de Barras](Grafico%20de%20barras.jpg)
 
 ✅ **Verdadeiro**  
 A análise mostrou que os três primeiros meses após a compra concentram as maiores taxas de churn:
@@ -23,7 +23,7 @@ A análise mostrou que os três primeiros meses após a compra concentram as mai
 
 ### 🟠 Hipótese 2: A taxa de churn da empresa é de 30%?
 
-![Gráfico de Linhas - Queda do Churn](grafico_linhas.jpg)
+![Gráfico de Linhas](Grafico%20de%20linhas.jpg)
 
 ⚠️ **Parcialmente verdadeiro**  
 O cálculo mostrou uma taxa de **26,54% no total**. Apesar de estar abaixo dos 30%, ainda é um valor próximo e relevante.  
@@ -34,7 +34,7 @@ O cálculo mostrou uma taxa de **26,54% no total**. Apesar de estar abaixo dos 3
 
 ### 🔴 Hipótese 3: A taxa de churn ao longo do tempo de ativação é crescente?
 
-![Gráfico de Linhas - Evolução do Churn](grafico_linhas.jpg)
+![Gráfico de Linhas](Grafico%20de%20linhas.jpg)
 
 ❌ **Falso**  
 Os dados indicam o contrário:  
@@ -50,7 +50,7 @@ Isso mostra que esforços de retenção **nos primeiros meses trazem retorno no 
 
 ### 💳 Hipótese 4: A maior taxa de churn ocorre em clientes que pagam por boleto?
 
-![Gráfico de Pagamentos - Churn por Método](grafico_pagamentos.jpg)
+![Gráfico de Pagamentos](Grafico%20pagamento.jpg)
 
 ✅ **Verdadeiro**  
 O método de pagamento **boleto (electronic check)** apresentou as maiores taxas de churn, mesmo com pequenas variações em alguns meses.  
@@ -65,3 +65,4 @@ A empresa deve rever essa política, incentivando ou migrando clientes para outr
 - Os três primeiros meses após a compra são o período mais crítico e devem receber **esforços concentrados de retenção**.  
 - Se o cliente permanecer até o sexto mês, a probabilidade de churn cai consideravelmente.  
 - A empresa deve **rever a política de pagamento via boleto**, já que esse meio está associado a maior risco de cancelamento.
+

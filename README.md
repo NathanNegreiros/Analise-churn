@@ -23,7 +23,7 @@ A análise mostrou que os três primeiros meses após a compra concentram as mai
 
 ### 🟠 Hipótese 2: A taxa de churn da empresa é de 30%?
 
-![Gráfico de Linhas](Grafico%20de%20linhas.jpg)
+![Tabela com Percentual](Image.jpg)
 
 ⚠️ **Parcialmente verdadeiro**  
 O cálculo mostrou uma taxa de **26,54% no total**. Apesar de estar abaixo dos 30%, ainda é um valor próximo e relevante.  

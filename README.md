@@ -23,13 +23,12 @@ A análise mostrou que os três primeiros meses após a compra concentram as mai
 
 ### 🟠 Hipótese 2: A taxa de churn da empresa é de 30%?
 
-![Tabela com Percentual](Image.jpg)
+![Tabela com Percentual](image.png)
 
-⚠️ **Parcialmente verdadeiro**  
-O cálculo mostrou uma taxa de **26,54% no total**. Apesar de estar abaixo dos 30%, ainda é um valor próximo e relevante.  
+⚠️ Parcialmente verdadeiro
+O cálculo considerando todos os clientes desde a primeira compra até hoje mostrou uma taxa de 26,54%, abaixo dos 30% estimados, mas ainda próxima.
 
-💡 **Insight:** a taxa de churn gira em torno de 26% — ou seja, aproximadamente **1 em cada 4 clientes cancela**.
-
+💡 Insight: a taxa de churn total gira em torno de 26% — ou seja, aproximadamente 1 em cada 4 clientes cancela. Apesar de ser menor que 30%, é um valor relevante para monitorar e planejar estratégias de retenção.
 ---
 
 ### 🔴 Hipótese 3: A taxa de churn ao longo do tempo de ativação é crescente?

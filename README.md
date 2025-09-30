@@ -26,9 +26,12 @@ A análise mostrou que os três primeiros meses após a compra concentram as mai
 ![Tabela com Percentual](image.png)
 
 ⚠️ Parcialmente verdadeiro
+
 O cálculo considerando todos os clientes desde a primeira compra até hoje mostrou uma taxa de 26,54%, abaixo dos 30% estimados, mas ainda próxima.
 
 💡 Insight: a taxa de churn total gira em torno de 26% — ou seja, aproximadamente 1 em cada 4 clientes cancela. Apesar de ser menor que 30%, é um valor relevante para monitorar e planejar estratégias de retenção.
+
+
 ---
 
 ### 🔴 Hipótese 3: A taxa de churn ao longo do tempo de ativação é crescente?
@@ -59,7 +62,7 @@ A empresa pode reduzir o churn incentivando ou migrando esses clientes para mét
 
 ---
 
-## 📌 Conclusões Gerais
+### 📌 Conclusões Gerais
 
 - Os três primeiros meses após a compra são o período mais crítico e devem receber **esforços concentrados de retenção**.  
 - Se o cliente permanecer até o sexto mês, a probabilidade de churn cai consideravelmente.  

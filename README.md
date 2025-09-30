@@ -51,11 +51,11 @@ Isso mostra que esforços de retenção **nos primeiros meses trazem retorno no 
 
 ![Gráfico de Pagamentos](Grafico%20pagamento.jpg)
 
-✅ **Verdadeiro**  
-O método de pagamento **boleto (electronic check)** apresentou as maiores taxas de churn, mesmo com pequenas variações em alguns meses.  
+✅ Verdadeiro
+O método de pagamento boleto (electronic check) apresenta as maiores taxas de churn.
 
-💡 **Insight:** clientes que utilizam **boleto têm maior risco de cancelar**.  
-A empresa deve rever essa política, incentivando ou migrando clientes para outros métodos de pagamento.
+💡 Insight: clientes que utilizam boleto têm maior probabilidade de cancelar, principalmente nos primeiros anos.
+A empresa pode reduzir o churn incentivando ou migrando esses clientes para métodos de pagamento alternativos, além de monitorar de perto os clientes em boleto nos primeiros meses.
 
 ---
 
